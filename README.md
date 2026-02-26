@@ -54,7 +54,7 @@ Netflix Movies and TV Shows Dataset
 (Add screenshots here)
 
 Example:
-![Movies vs TV Shows](images/movies_vs_tvshows.png)
+![Movies vs TV Shows](images/Movies_vs_shows.png)
 
 ---
 
